@@ -82,3 +82,48 @@ body{
   padding: 48px 259px 120px 258px;
   width: 809px;
 }
+
+/* discount section end */
+
+/* party section start */
+
+.party-section{
+  background-image: url(images/Vectorrr.png);
+  height: 600px;
+}
+
+.party-container{
+  display: flex;
+  justify-content: space-between;
+}
+
+.party-title{
+  font-size: 64px;
+  font-weight: 900;
+  color: #FFFFFF;
+  max-width: 642px;
+  padding: 126px 94px 24px 126px;
+}
+
+.party-description{
+   font-size: 18px;
+   font-weight: 400;
+   color: #FFFFFF;
+   max-width: 697px;
+   padding: 24px 39px 48px 126px;
+}
+
+.join-btn{
+  margin-left: 158px;
+  font-size: 20px;
+  font-weight: bold;
+  background: transparent;
+  color: #FFFFFF;
+  border: none;
+}
+
+.img-2024{
+  width: 319px;
+  margin-top: 68px;
+  margin-right: 168px;
+}
